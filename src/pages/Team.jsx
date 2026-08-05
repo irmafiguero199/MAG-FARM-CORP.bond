@@ -6,17 +6,17 @@ const boardMembers = [
   {
     name: 'Jeremy A. Garcia',
     role: 'President & Founder',
-    bio: 'Jeremy founded MAG FARM CORP in 2022 with a vision to transform Orlando's urban landscape through sustainable agriculture. With a background in environmental science and community organizing, he leads the organization's strategic direction and board governance.',
+    bio: "Jeremy founded MAG FARM CORP in 2022 with a vision to transform Orlando's urban landscape through sustainable agriculture. With a background in environmental science and community organizing, he leads the organization's strategic direction and board governance.",
   },
   {
     name: 'Dr. Angela Martinez',
     role: 'Vice President',
-    bio: 'Dr. Martinez is a professor of Urban Planning at the University of Central Florida. She brings expertise in sustainable city design and food policy, guiding MAG FARM CORP's expansion strategy and municipal partnerships.',
+    bio: "Dr. Martinez is a professor of Urban Planning at the University of Central Florida. She brings expertise in sustainable city design and food policy, guiding MAG FARM CORP's expansion strategy and municipal partnerships.",
   },
   {
     name: 'Robert Chen',
     role: 'Treasurer',
-    bio: 'Robert is a CPA with 15 years of nonprofit financial management experience. He oversees MAG FARM CORP's finances, ensuring compliance with IRS 501(c)(3) requirements and sound fiscal stewardship of donor resources.',
+    bio: "Robert is a CPA with 15 years of nonprofit financial management experience. He oversees MAG FARM CORP's finances, ensuring compliance with IRS 501(c)(3) requirements and sound fiscal stewardship of donor resources.",
   },
   {
     name: 'Sarah Johnson',
@@ -26,7 +26,7 @@ const boardMembers = [
   {
     name: 'Michael Okafor',
     role: 'Board Member',
-    bio: 'Michael owns a sustainable landscaping company in Orlando and advises on MAG FARM CORP's commercial landscaping program. He brings practical industry knowledge and business development expertise.',
+    bio: "Michael owns a sustainable landscaping company in Orlando and advises on MAG FARM CORP's commercial landscaping program. He brings practical industry knowledge and business development expertise.",
   },
   {
     name: 'Lisa Park',
