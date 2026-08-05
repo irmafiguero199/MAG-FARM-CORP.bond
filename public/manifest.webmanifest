@@ -1,0 +1,16 @@
+{
+  "name": "MAG FARM CORP",
+  "short_name": "MAG FARM",
+  "description": "Registered 501(c)(3) nonprofit organization dedicated to urban agriculture and sustainable community development in Orlando, Florida.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#15803d",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
