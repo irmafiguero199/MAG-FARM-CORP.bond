@@ -94,8 +94,8 @@ export default function About() {
                 <div className="flex items-start gap-3">
                   <Sprout className="w-5 h-5 text-primary-700 mt-0.5 shrink-0" />
                   <div>
-                    <p className="font-semibold text-earth-900">Mission Category</p>
-                    <p className="text-earth-600 text-sm">Environmental Conservation & Food Security</p>
+                    <p className="font-semibold text-earth-900">email</p>
+                    <p className="text-earth-600 text-sm">admin@MAG-FARM-CORP.bond</p>
                   </div>
                 </div>
               </div>
