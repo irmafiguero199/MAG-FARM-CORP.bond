@@ -15,7 +15,7 @@ const testimonials = [
   {
     name: 'Maria Rodriguez',
     role: 'Community Garden Participant',
-    text: 'MAG FARM CORP changed my family's life. We now grow our own vegetables and my children understand where food comes from. The garden at 414 S Buena Vista Ave has become our second home.',
+    text: "MAG FARM CORP changed my family's life. We now grow our own vegetables and my children understand where food comes from. The garden at 414 S Buena Vista Ave has become our second home.",
   },
   {
     name: 'James Thompson',
@@ -25,7 +25,7 @@ const testimonials = [
   {
     name: 'Patricia Williams',
     role: 'Senior Center Director',
-    text: 'The Food Security Initiative delivers fresh produce weekly to our senior residents. The quality and consistency of MAG FARM CORP's donations have significantly improved nutrition for our most vulnerable community members.',
+    text: "The Food Security Initiative delivers fresh produce weekly to our senior residents. The quality and consistency of MAG FARM CORP's donations have significantly improved nutrition for our most vulnerable community members.",
   },
 ]
 
